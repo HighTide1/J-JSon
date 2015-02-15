@@ -1,0 +1,27 @@
+# Class Files #
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven Auto-Generated Files #
+/target/
+
+# Eclipse Files #
+/.settings/
+.classpath
+.project
+
+# Local Git Repository #
+/.git/
+
+# Testing Files #
+/config/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
